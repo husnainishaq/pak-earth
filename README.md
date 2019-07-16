@@ -1,0 +1,2 @@
+# pak-earth
+Real Estate is a dynamic website that is developed in HTML, CSS, BOOTSTRAP, JQUERY, PHP (Coordinator). Real Estate project Managers are responsible for developing and implementing Real Estate projects. They may also be required to ensure the maintenance of various properties and their main duties recommending and selecting sites, securing project funds, managing the construction phase and informing the community.
